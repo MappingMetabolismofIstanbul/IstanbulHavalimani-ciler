@@ -53,7 +53,7 @@ var config = {
         },
           {
             id: '1.1',
-            alignment: 'left',
+            alignment: 'centered',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/ynLggYfg/MEF-AAP-027-BAP-PART-II-2025-07-30-14-12-50.png',
